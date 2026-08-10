@@ -1,0 +1,23 @@
+{
+  "slack": {
+    "token": "xoxp-your-user-token-here",
+    "workspace": "your-workspace-name"
+  },
+  "confluence": {
+    "url": "https://your-org.atlassian.net/wiki",
+    "username": "your-email@company.com",
+    "api_token": "your-atlassian-api-token"
+  },
+  "jira": {
+    "url": "https://your-org.atlassian.net",
+    "username": "your-email@company.com",
+    "api_token": "your-atlassian-api-token"
+  },
+  "github": {
+    "token": "github_pat_your_token_here",
+    "org": "your-org-name"
+  },
+  "anthropic": {
+    "api_key": "sk-ant-your-api-key-here"
+  }
+}

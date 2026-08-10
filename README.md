@@ -11,7 +11,7 @@ This repo is where I build. Projects, notes, and lessons documented while I'm wo
 | Project | What it is | Status |
 |---------|-----------|--------|
 | [Job Search Agent](./projects/job-search-agent/) | An AI agent that manages and prioritizes a job search pipeline | 🔨 In progress |
-| [Knowledge Gatherer](./projects/knowledge-gatherer/) | Aggregates Slack, Confluence, and other docs to summarize product knowledge organized by feature | 🔜 Coming soon |
+| [Knowledge Gatherer](./projects/knowledge-gatherer/) | Aggregates Slack, Confluence, and other docs to summarize product knowledge organized by feature | 🔨 In progress |
 
 ---
 
