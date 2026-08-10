@@ -36,4 +36,4 @@ I write about quality — engineering, systems, and what it actually looks like 
 
 ## Find Me
 
-[LinkedIn](https://linkedin.com/in/arielleisrael) · [Substack — Built and Tested](https://builtandtested.substack.com) · [GitHub](https://github.com/arielleisrael)
+[LinkedIn](https://linkedin.com/in/arielle-israel) · [Substack — Built and Tested](https://builtandtested.substack.com) · [GitHub](https://github.com/arielleisrael)
