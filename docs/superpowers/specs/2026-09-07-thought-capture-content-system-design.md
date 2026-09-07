@@ -87,6 +87,8 @@ The core insight: a single thought is almost never a post; five thoughts on one 
 
 **Themes are derived on every run, never maintained by hand.** They may merge, split, or be renamed as thinking moves. There is no taxonomy for the user to keep tidy — that is the component of note systems that reliably collapses.
 
+Ripeness is a judgment call made at review time, not a fixed count. As a starting heuristic: three or more notes sharing a thread, captured across more than one week. The implementation should treat this as guidance for the clustering prompt, not as a hard threshold to enforce in code.
+
 Orphans older than 90 days are flagged "let go?" so the inbox self-prunes rather than becoming a guilt pile.
 
 **On-demand entry point.** The same machinery answers ad-hoc queries ("what do I have on release readiness?") without waiting for the weekly ritual — either drafting, or reporting that the theme is not ripe.
