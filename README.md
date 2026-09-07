@@ -12,6 +12,7 @@ This repo is where I build. Projects, notes, and lessons documented while I'm wo
 |---------|-----------|--------|
 | [Job Search Agent](./projects/job-search-agent/) | An AI agent that manages and prioritizes a job search pipeline | 🔨 In progress |
 | [Knowledge Gatherer](./projects/knowledge-gatherer/) | Aggregates Slack, Confluence, and other docs to summarize product knowledge organized by feature | 🔨 In progress |
+| [Capture System](./docs/capture-shortcut-setup.md) | Two-door thought capture that turns scattered notes into drafts | 🔨 In progress |
 
 ---
 
