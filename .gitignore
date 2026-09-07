@@ -1,4 +1,12 @@
 .DS_Store
 *.swp
 *.swo
-.claude/
+
+# Local Claude config stays private, but the capture commands are part
+# of the system and belong in the repo.
+.claude/*
+!.claude/commands/
+!.claude/commands/**
+
+# Raw captured thoughts are private and never committed.
+inbox/
